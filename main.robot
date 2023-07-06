@@ -16,5 +16,5 @@ As a User I Want to Open Web Sauce Demo
     Input Text    ${USERNAME_FIELD}    ${USERNAME}
     Input Password    ${PASSWORD_FIELD}    ${PASSWORD}
     Click Button    ${LOGIN_BTN_FIELD}
-    Sleep    1
+    Sleep    2
     Close Browser
